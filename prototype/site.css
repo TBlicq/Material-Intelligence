@@ -1,3 +1,6 @@
+body {
+    background: red !important;
+}
 :root {
     --graphite: #2B2F33;
     --orange: #F97316;
