@@ -213,3 +213,6 @@ tr:hover td {
     display: inline-block;
     font-size: 12px;
 }
+.active-nav {
+    background: var(--orange);
+}
