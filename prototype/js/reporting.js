@@ -37,7 +37,7 @@ function generateBuildingReport(imports) {
 }
 
 function generateFloorReport(imports) {
-
+console.log("Floor Report Running");
     const totals = {};
 
     imports.forEach(item => {
