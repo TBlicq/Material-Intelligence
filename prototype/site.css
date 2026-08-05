@@ -191,3 +191,25 @@ tr:hover td {
     font-size: 42px;
     color: var(--graphite);
 }
+.primary-button {
+    background: var(--orange);
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.primary-button:hover {
+    opacity: .9;
+}
+
+.status-warning {
+    background: var(--warning);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: 12px;
+}
