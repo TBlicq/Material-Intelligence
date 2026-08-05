@@ -185,3 +185,8 @@ tr:hover td {
 .topbar-right {
     color: #6B7280;
 }
+
+.kpi-number {
+    font-size: 42px;
+    color: var(--graphite);
+}
