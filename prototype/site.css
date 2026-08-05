@@ -262,3 +262,15 @@ tr:hover td {
 .mapping-list li:hover {
     background: #f5f5f5;
 }
+.topbar-center {
+    font-weight: 600;
+    color: var(--graphite);
+}
+
+.topbar-right {
+    background: var(--orange);
+    color: white;
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-weight: 600;
+}
