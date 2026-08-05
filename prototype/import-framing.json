@@ -1,0 +1,39 @@
+{
+  "project": "24053",
+  "version": "Tender",
+  "scope": "Framing",
+  "imports": [
+    {
+      "building": "A",
+      "floor": "1",
+      "suite": "A1.01",
+      "material": "Flooring Option 4",
+      "quantity": 1250,
+      "unit": "SF"
+    },
+    {
+      "building": "A",
+      "floor": "1",
+      "suite": "A1.02",
+      "material": "Flooring Option 4",
+      "quantity": 1800,
+      "unit": "SF"
+    },
+    {
+      "building": "A",
+      "floor": "2",
+      "suite": "A2.01",
+      "material": "Bellara B&B Siding",
+      "quantity": 950,
+      "unit": "SF"
+    },
+    {
+      "building": "B",
+      "floor": "1",
+      "suite": "B1.01",
+      "material": "Bellara B&B Siding",
+      "quantity": 1100,
+      "unit": "SF"
+    }
+  ]
+}
